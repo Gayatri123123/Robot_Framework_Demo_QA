@@ -1,0 +1,10 @@
+Packages:
+Selenium
+robotframework
+Robotframework-seleniumlibrary
+
+
+
+https://robotframework.org/SeleniumLibrary/SeleniumLibrary
+
+robot -d Reports TestCases\TC1.robot
